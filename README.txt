@@ -1,7 +1,7 @@
 # my-portfolio
 README
 Hello, I'm [Redacted].
-I'm [Redacted] interested in coding, networking, and robotics.
+My interests are in coding, networking, and robotics.
 
 ## Skills
 - Python
@@ -10,5 +10,5 @@ I'm [Redacted] interested in coding, networking, and robotics.
 - Git & GitHub
 
 ## Projects
-- Python Calc.
-- Personal Website
+- [Redacted]
+- [Redacted]
